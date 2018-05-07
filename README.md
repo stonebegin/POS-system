@@ -1,6 +1,7 @@
 # POS-system
 
 > A Vue.js project use Vue and Python
+>感谢技术胖老师
 
 ## Build Setup
 
