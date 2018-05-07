@@ -1,6 +1,6 @@
-# my-website
+# POS-system
 
-> A Vue.js project
+> A Vue.js project use Vue and Python
 
 ## Build Setup
 
